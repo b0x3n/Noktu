@@ -9,7 +9,7 @@ word. Project needed a name and it just popped into my head.
 Put it down to temporary demonic posession or perhaps a
 simple flash of inspiration.
 
-Here's a live [Demo](https://b0x3n.github.io/Noktu/Demo/).
+Here's a live [Demo](https://b0x3n.github.io/Noktu/Demo/Noktu.html).
 
 
 What exactly does Noktu do?
